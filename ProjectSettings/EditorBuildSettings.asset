@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Scoreboard.unity
+    guid: 560426ce0b91f5a46b05cb52a70600f4
+  - enabled: 1
+    path: Assets/Scenes/Settings.unity
+    guid: cb229a6979878e94e826f07888df31d8
+  - enabled: 1
+    path: Assets/Scenes/Player.unity
+    guid: d309bfede0eca114989bc3540fddcd73
+  - enabled: 1
+    path: Assets/Scenes/Letter Game Menu.unity
+    guid: ce3cc162ef50907438a0853c61ba672c
+  - enabled: 1
+    path: Assets/Scenes/Letters.unity
+    guid: 9f2a7101e8088094286b1c88d71f4b95
+  - enabled: 1
+    path: Assets/Scenes/SpellingImage.unity
+    guid: d5e9ff7744aab4840acd81a3e08337b0
+  - enabled: 1
+    path: Assets/Scenes/LetterToWord.unity
+    guid: 270449c61ced8c84b87dd8a4e6e30e54
+  - enabled: 1
+    path: Assets/Scenes/Numbers.unity
+    guid: c2681f0532b83364eafc66e67ce11a5d
+  - enabled: 1
+    path: Assets/Scenes/Equation.unity
+    guid: 0a59e452f2357eb44b7541addbe9f463
+  m_configObjects: {}
